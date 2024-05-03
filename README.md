@@ -37,7 +37,7 @@ Done...
   - /manpower/patch-all/{id}
   - /manpowerdelete-data/{id}
 
-### 2. users (options) => mycustion users
+### 2. users (options) => my custom users
   - /users/login
   - /users/logout
   - /users/register
