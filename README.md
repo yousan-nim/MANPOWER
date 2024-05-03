@@ -23,6 +23,11 @@ This is workshop backend for SDP team from Manpower.
 git clone https://github.com/IZZARA-URA/MANPOWER.git
 ```
 
+```
+docker build -t manpower .
+docker run -p 8000:8000 manpower 
+```
+
 ## Usage.
 
 
