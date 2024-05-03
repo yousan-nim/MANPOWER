@@ -1,0 +1,37 @@
+# Connect Database
+pymongo[snappy,gssapi,srv,tls]
+pytz
+djongo
+pymongo==3.12.3
+mongoengine 
+django-rest-framework-mongoengine
+
+dnspython
+
+# Swagger
+# pyyaml 
+# uritemplate
+# inflection
+# django-rest-swagger
+
+drf-yasg
+drf-yasg[validation]
+
+# Other 
+pandas 
+numpy
+
+# sql 
+sqlparse==0.2.4
+
+# env
+python-dotenv
+
+# For Django 
+django
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+
+
+
