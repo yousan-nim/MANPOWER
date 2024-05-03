@@ -30,19 +30,26 @@ docker run -p 8000:8000 manpower
 Done...
 
 ## API.
-1. manpower (main tasks) => Superuser only
+###1. manpower (main tasks) => Superuser only
   - /manpower/get-all
   - /manpower/post-data/
   - /manpower/get-data/{id}
   - /manpower/patch-all/{id}
   - /manpowerdelete-data/{id}
 
-2. users (options) => mycustion users
+### 2. users (options) => mycustion users
   - /users/login
   - /users/logout
   - /users/register
   - /users/token
   - /users/token/refresh
+
+
+## Available user => Superuser 
+{
+    "email": "admin@gmail.com",
+    "password": "admin"
+}
 
 
 
