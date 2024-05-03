@@ -30,12 +30,12 @@ docker run -p 8000:8000 manpower
 Done...
 
 ## API.
-manpower (main tasks)
-  -> /manpower/get-all
-  -> /manpower/get-all
-  -> /manpower/get-all
-  -> /manpower/get-all
-  -> /manpower/get-all
+1. manpower (main tasks)
+  - /manpower/get-all
+  - /manpower/get-all
+  -  /manpower/get-all
+  -  /manpower/get-all
+  -  /manpower/get-all
 
 
 
